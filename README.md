@@ -1,7 +1,7 @@
 # Hi, I'm Amina! 👋
 
 🚀 **Mechatronics & Systems Engineering Student**  
-Passionate about leveraging technology to create innovative solutions. Exploring the realms of IoT, AI, and Robotics.
+Passionate about leveraging technology to create innovative solutions. Exploring the realms of Data analysis, IoT, AI, and Robotics.
 
 💼 **Experience**  
 - **NCAIR Intern:** Contributing to cutting-edge projects in Mechatronics and Systems Engineering.  
