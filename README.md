@@ -21,5 +21,6 @@ Passionate about leveraging technology to create innovative solutions. Exploring
 🌐 **Connect with Me**  
 - [LinkedIn](https://www.linkedin.com/in/amina-shiga?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Twitter](https://twitter.com/ShigaAmina?t=oqTxnGjyTeLCXw67X3E1og&s=08)
+- [Blog](https://dev.to/amina_shiga_d402bc50aa48e)
 
 Let's collaborate and build a future powered by technology! 🌟
